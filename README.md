@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shemin-jr/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shemin-jr/leetcode/tree/master/0070-climbing-stairs) |
+| [2469-convert-the-temperature](https://github.com/Shemin-jr/leetcode/tree/master/2469-convert-the-temperature) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shemin-jr/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
